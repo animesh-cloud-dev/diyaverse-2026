@@ -1,6 +1,6 @@
 # Diyaverse 2026
 
-A static, mobile-first website for the Business Department, DDU Diwali fest. The site uses plain HTML, CSS and vanilla JavaScript, with no build step or server dependency.
+A static, mobile-first website for the Department of Business Administration, Deen Dayal Upadhyaya Gorakhpur University Diwali fest. The site uses plain HTML, CSS and vanilla JavaScript, with no build step or server dependency.
 
 ## Deploy on GitHub Pages
 
