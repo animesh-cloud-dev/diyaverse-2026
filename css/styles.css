@@ -215,7 +215,7 @@ tbody tr:nth-child(even) { background: #fbf4e7; }
 .contact-details > p span { margin-bottom: .2rem; color: var(--muted); font-size: .73rem; font-weight: 800; letter-spacing: .09em; text-transform: uppercase; }
 .contact-details > p strong { color: var(--maroon); font-family: var(--serif); font-size: 1.05rem; font-weight: 500; }
 .phone-link { color: var(--muted); font-size: .82rem; text-decoration-thickness: 1px; text-underline-offset: 3px; }
-.contact-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; }
+.contact-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; margin-top: 2rem; }
 .text-link { color: var(--maroon); font-size: .85rem; font-weight: 800; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 .text-link span { color: var(--saffron); }
 .site-footer { display: flex; flex-direction: column; align-items: center; gap: .65rem; padding: 1.5rem 1.25rem; color: #f5e9d5; background: var(--maroon-dark); text-align: center; }
