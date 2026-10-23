@@ -71,6 +71,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .hero-mark img { width: 72px; height: 72px; border-radius: 50%; object-fit: contain; }
 .eyebrow { margin: 0 0 .8rem; color: var(--saffron); font-size: .7rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
 .hero .eyebrow { color: var(--gold-light); }
+.hero-present { margin: -.45rem 0 .8rem; color: var(--gold); font-family: var(--serif); font-size: 1.05rem; font-style: italic; letter-spacing: .04em; }
 .hero h1 { margin: 0; color: var(--cream); font-family: var(--serif); font-size: clamp(3.5rem, 13vw, 7.7rem); font-weight: 500; line-height: .96; }
 .hero h1 span { color: var(--gold); }
 .hero-tagline { margin: 1.2rem 0 1.8rem; color: #f7e7c8; font-family: var(--serif); font-size: clamp(1.15rem, 3vw, 1.55rem); font-style: italic; }
